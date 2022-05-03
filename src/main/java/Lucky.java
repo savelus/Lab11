@@ -16,6 +16,7 @@ public class Lucky {
                     count.incrementAndGet();
                 }
             }
+
         }
     }
 
